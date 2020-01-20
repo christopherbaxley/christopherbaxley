@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-                       .,,uod8B8bou,,.
+                       `,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||
@@ -38,7 +38,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
                 `!!8888888888888888899fT|!^"'
                   `!988888888899fT|!^"'
                     `!9899fT|!^"'
-                      `!^"'
+                      `!^"`
 ```
 
 # Header 1
